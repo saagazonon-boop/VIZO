@@ -1,0 +1,21 @@
+{
+  "name": "VIZO | L'ÉLITE DE L'ARCHITECTURE DIGITALE",
+  "short_name": "VIZO Agency",
+  "description": "Dominez votre marché avec VIZO. Agence de prestige au Burkina Faso spécialisée en stratégie de croissance, production vidéo cinématique et web design haute performance. CRÉEZ. INNOVEZ. IMPACTEZ.",
+  "keywords": [
+    "SMMA Burkina Faso",
+    "Production vidéo Ouagadougou",
+    "Web design Afrique",
+    "Marketing digital d'élite",
+    "VIZO Agency",
+    "Stratégie de marque Burkina"
+  ],
+  "author": "VIZO Group",
+  "theme_color": "#00f2ff",
+  "background_color": "#000000",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
